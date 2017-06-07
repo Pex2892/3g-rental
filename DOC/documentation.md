@@ -23,7 +23,9 @@ Gli utenti avranno inoltre la possibilità di aderire a servizi premium che perm
 <img src="Diagram_3g-rental.png" alt="Architecture";>
 La scelta della nostra infrastruttura come design pattern architetturale ricade su una <i>Scalable Web App</i>, ed  abbiamo optato per il piano di servizio <i>S1 Standard</i> in quanto consone alle nostre disponibilità finanziarie ed architetturali.
 </p>
-<img src="Piano_tariffario.png" alt="Plan";>
+<p align="center">
+<img src="Piano_tariffario.png" alt="Plan" width=200px height=356px;>
+</p>
 
 
 ## Presentazione interattiva del funzionamento della web app
