@@ -19,5 +19,5 @@ Gli utenti avranno inoltre la possibilità di aderire a servizi premium che perm
 
 ## Infrastruttura ed architettura Azure
 <p align="justify">
-<img src="/3g-rental/DOC/Diagram_3g-rental.png" alt="Architecture";>
+<img src="/DOC/Diagram_3g-rental.png" alt="Architecture";>
 </p>
