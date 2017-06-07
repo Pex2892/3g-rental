@@ -1,4 +1,4 @@
-# 3G-Rental: Documentazione
+# 3G-Rental
 La seguente documentazione si divide in due parti:
 - **Idea della start-up 3G-Rental**
 - **Infrastruttura ed architettura Azure**
