@@ -20,7 +20,7 @@ Gli utenti avranno inoltre la possibilità di aderire a servizi premium che perm
 
 ## Infrastruttura ed architettura Azure
 <p align="justify">
-<img src="Diagram_3g-rental" alt="Mountain View" style="width:304px;height:228px;">
+<img src="Diagram_3g-rental.png" alt="Mountain View";>
 </p>
 
 ## Presentazione interattiva del funzionamento della web app
