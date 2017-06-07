@@ -35,6 +35,25 @@ Il piano, progettato appositamente per web app, ci mette a disposizione tra gli 
 </ul>
 
 La scelta delle tecnologie utilizzate ricade sul nostro <i>Know-How</i>, ovvero nell’integrare servizi come <i>mySql</i> e <i>PhpMyAdmin</i>, fondamentali per la creazione e gestione grafica del database.
+Le altre tecnologie utilizzate sono:
+<ul type="square">
+<li><b><i>redirect HTTP to HTTPS</i></b>: permette di redirigere tutto il traffico HTTP su protocollo HTTPS. La scelta di questo protocollo ci assicura di avere informazioni crittografate e dunque più sicure.</li>
+<li><b><i>Azure minifier</i></b>: permette di ridurre le dimensioni dei file con estensione .css o .js.</li>
+<li><b><i>Azure Image Optimizer</i></b>: permette di comprimere le immagini sul sito web.</li>
+<li><b><i>Let’s Encrypt</i></b>: automatizza gratuitamente la creazione, la validazione, il rilascio o il rinnovo dei certificati TLS/SSL.</li>
+<li><b><i>Application Insight</i></b>: offre funzionalità avanzate di management, come: monitoraggio delle prestazioni, analisi interattiva dei dati, gestione e recupero degli errori e delle eccezioni, machine learning, e varie diagnostiche.</li>
+</ul>
+
+La nostra Web App è stata inoltre pensata per eseguire attività in background con processi Web (<i>WebJobs</i>) quali:
+<ul type="square">
+<li><b><i>Newsletter</i></b>: ha lo scopo di informare, tramite e-mail, gli utenti riguardo nuovi prodotti ed offerte, o di evidenziare le novità pubblicate sul sito web. Per questo servizio, inoltre, presupponiamo il futuro impiego di algoritmi di machine learning per offrire un contenuto più appropriato ad ogni utente, in base alle preferenze dei prodotti acquistati/noleggiati.</li>
+<li><b><i>Account expiration notice</i></b>: ha lo scopo di notificare all'utente che la sua sottoscrizione premium sta per scadere e verranno, quindi, ripristinate le funzionalità standard del suo account.</li>
+<li><b><i>New arrivals</i></b>: ha lo scopo di mostrare all’utente i nuovi prodotti inseriti. Inoltre, anche qui, presupponiamo il futuro impiego di algoritmi di machine learning per offrire un contenuto più appropriato ad ogni utente.</li>
+<li><b><i>New offers</i></b>: ha lo scopo di evidenziare le novità riguardanti le nuove offerte come prodotti scontati od offerte riservate agli utenti premium.</li>
+<li><b><i>Notice by preference</i></b>: ha lo scopo di mostrare soltanto i prodotti per una determinata categoria.</li>
+<li><b><i>Availability and delivery notice of the product</i></b>: ha lo scopo di avvisare l’utente, tramite e-mail, l’arrivo del prodotto desiderato (quindi disponibile per noleggio/acquisto) e quindi la sua relativa consegna, una volta terminato il periodo di noleggio.</li>
+</ul>
+
 </p>
 
 ## Presentazione interattiva del funzionamento della web app
