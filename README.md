@@ -1,6 +1,6 @@
 # 3G-Rental
 La seguente documentazione si divide in due parti:
-- **Idea della start-up 3G-Rental**
+- **Idea della start-up**
 - **Infrastruttura ed architettura Azure**
 ## Idea della start-up
 <p align="justify">
