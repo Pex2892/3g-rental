@@ -17,5 +17,10 @@ Alla fine di tutto:  il noleggiante guadagnerà la percentuale maggiore, l'azien
 Se invece verrà effettuata una compravendita, l’azienda guadagnerà una sua percentuale, ponendosi da mediatrice.
 Gli utenti avranno inoltre la possibilità di aderire a servizi premium che permetteranno loro di avere una determinata serie di benefici: sconti su acquisti e noleggi, newsletter, maggior guadagno sul noleggio e tanto altro.
 </p>
+
 ## Infrastruttura ed architettura Azure
+<p align="justify">
+<img src="Diagram_3g-rental" alt="Mountain View" style="width:304px;height:228px;">
+</p>
+
 ## Presentazione interattiva del funzionamento della web app
