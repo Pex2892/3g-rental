@@ -1,8 +1,8 @@
 # 3G-Rental: Documentazione
 La seguente documentazione si divide in tre parti:
-- Idea della start-up 3G-Rental
-- Infrastruttura ed architettura Azure
-- Presentazione interattiva del funzionamento della web app
+- **Idea della start-up 3G-Rental**
+- **Infrastruttura ed architettura Azure**
+- **Presentazione interattiva del funzionamento della web app**
 ## Idea della start-up
 <p align="justify">
 La nostra idea di start-up, denominata <i>3G Rental</i>, nasce dagli studenti Giuseppe Giliberto, Giuseppe Puglisi, Giuseppe Sgroi, ed ha come obiettivo principale quello di creare una nuova forma di noleggio tra privati che cambia il concetto di possesso,  trasformandolo in quello di reale utilizzo. Inoltre, la start-up, si propone come mediatrice nella compravendita di beni e servizi.
