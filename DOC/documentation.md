@@ -29,9 +29,9 @@ La scelta della nostra infrastruttura come design pattern architetturale ricade 
 <p align="justify">
 Il piano, progettato appositamente per web app, ci mette a disposizione tra gli altri:
 <ul type="square">
-<li>Archiviazione: 50 GB di spazio di archiviazione (ottimo per il nostro <i>Data Storage</i>).</li>
-<li>Istanze: possibilità di creare fino a dieci istanze dell’app, con scalabilità automatica, in funzione del carico di lavoro ed alle esigenze di traffico. A tale scopo utilizziamo una serie di <i>scale condition rules</i> impostate ad hoc sulla piattaforma.</li>
-<li>Backup giornalieri.</li>
+<li><i>Archiviazione</i>: 50 GB di spazio di archiviazione (ottimo per il nostro <i>Data Storage</i>).</li>
+<li><i>Istanze</i>: possibilità di creare fino a dieci istanze dell’app, con scalabilità automatica, in funzione del carico di lavoro ed alle esigenze di traffico. A tale scopo utilizziamo una serie di <i>scale condition rules</i> impostate ad hoc sulla piattaforma.</li>
+<li><i>Backup giornalieri</i>.</li>
 </ul>
 
 La scelta delle tecnologie utilizzate ricade sul nostro <i>Know-How</i>, ovvero nell’integrare servizi come <i>mySql</i> e <i>PhpMyAdmin</i>, fondamentali per la creazione e gestione grafica del database.
