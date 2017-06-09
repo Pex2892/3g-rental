@@ -17,6 +17,10 @@ Se invece verrà effettuata una compravendita, l’azienda guadagnerà una sua p
 Gli utenti avranno inoltre la possibilità di aderire a servizi premium che permetteranno loro di avere una determinata serie di benefici: sconti su acquisti e noleggi, newsletter, maggior guadagno sul noleggio e tanto altro.
 </p>
 
+<p align="right">
+...continua su <a href="/DOC/documentation.md">documentazione</a>
+</p>
+
 ## Infrastruttura ed architettura Azure
 <p align="justify">
 <img src="/DOC/Diagram_3g-rental.png" alt="Architecture";>
