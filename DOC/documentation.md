@@ -6,6 +6,7 @@ La seguente documentazione si divide in tre parti:
 ## Idea della start-up
 <p align="justify">
 La nostra idea di start-up, denominata <i>3G Rental</i>, nasce dagli studenti Giuseppe Giliberto, Giuseppe Puglisi, Giuseppe Sgroi, ed ha come obiettivo principale quello di creare una nuova forma di noleggio tra privati che cambia il concetto di possesso,  trasformandolo in quello di reale utilizzo. Inoltre, la start-up, si propone come mediatrice nella compravendita di beni e servizi.
+</p>
 <p align="justify">
 L’azienda si inserisce nel panorama della <i>Sharing Economy</i>, mercato  che si propone come nuovo modello economico che parte dai reali bisogni dei consumatori ed è capace di far fronte alle sfide della crisi, e di promuovere forme di consumo più consapevoli, basate sul riuso anziché sull’acquisto. Vengono stimolati, così, nuovi stili di vita che riescono a favorire il risparmio, la riduzione degli sprechi, la socializzazione e la salvaguardia dell’ambiente.
 </p>
