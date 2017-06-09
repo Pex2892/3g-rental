@@ -21,3 +21,7 @@ Gli utenti avranno inoltre la possibilità di aderire a servizi premium che perm
 <p align="justify">
 <img src="/DOC/Diagram_3g-rental.png" alt="Architecture";>
 </p>
+
+<p align="right">
+...continua su <a href="/DOC">documentazione</a>
+</p>
