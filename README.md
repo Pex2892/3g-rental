@@ -23,5 +23,5 @@ Gli utenti avranno inoltre la possibilità di aderire a servizi premium che perm
 </p>
 
 <p align="right">
-...continua su <a href="/DOC">documentazione</a>
+...continua su <a href="/DOC/documentation.md">documentazione</a>
 </p>
