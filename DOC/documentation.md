@@ -71,13 +71,17 @@ La nostra Web App è stata inoltre pensata per eseguire attività in background 
 
 <p align="justified">
 <img src="Home.png" alt="Home";>
+</p>
 
+<p align="justified">
 <img src="Info_Prodotto.png" alt="Info Prodotto";>
+</p>
 
+<p align="justified">
 L’utente nella home page può vedere alcuni dei prodotti disponibili, richiedere informazioni aggiuntive sul prodotto e vedere se il prodotto è disponibile o meno.
+</p>
 
-
-
+<p align="justified">
 <img src="Nuovi_Arrivi.png" alt="Nuovi Arrivi";>
 </p>
 
