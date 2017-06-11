@@ -79,7 +79,7 @@ La nostra Web App è stata inoltre pensata per eseguire attività in background 
 
 La web app è totalmente integrata con il social network Facebook&trade; ed è stata progettata utilizzando il framework CodeIgniter&trade; 
 In Futuro verranno implementate anche i servizi di gestione del traffico per regione, dopo l’apertura della nuova filiale.
-Inoltre conteremo di integrare un sistema di pagamento e un sistema di consegna, all'interno della web app, in modo tale da renedere più immediata la transazione e la consegna. 
+Inoltre conteremo di integrare un sistema di pagamento ed un sistema di consegna, all'interno della web app, in modo tale da renedere più immediata la transazione e la consegna. 
 
 </p>
 
@@ -93,7 +93,7 @@ Inoltre conteremo di integrare un sistema di pagamento e un sistema di consegna,
 
 <p align="justified">
 Nella homepage, l'utente ha la possibilità di visionare tutti i vari prodotti, consulatare informazioni dettagliate riguardo il prodotto selezionato, e verificare se tale prodotto è disponibile o meno nella data selezionata.
-Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funzioni Facebook&trade; di commento, like e condivisione. inoltre nella sezione Home l'utente può fare il log-in o la regostrazione con l'apposito button.
+Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funzioni Facebook&trade; di commento, like e condivisione. Inoltre nella sezione Home l'utente può fare il log-in o la registrazione.
 </p>
 
 
