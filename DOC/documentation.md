@@ -32,11 +32,14 @@ Gli utenti avranno inoltre la possibilità di aderire a servizi premium che perm
 <p align="justify">
 <img src="Diagram_3g-rental.png" alt="Architecture";>
 
+
 La scelta della nostra infrastruttura come design pattern architetturale ricade su una <i>Scalable Web App</i>, ed  abbiamo optato per il piano di servizio <i>S1 Standard</i> in quanto consone alle nostre disponibilità finanziarie ed architetturali.
 </p>
+
 <p align="center">
 <img src="Piano_tariffario.png" alt="Plan" width=200px height=356px;>
 </p>
+
 <p align="justify">
 Il piano, progettato appositamente per web app, ci mette a disposizione tra gli altri:
 <ul type="square">
@@ -44,6 +47,15 @@ Il piano, progettato appositamente per web app, ci mette a disposizione tra gli 
 <li><i>Istanze</i>: possibilità di creare fino a dieci istanze dell’app, con scalabilità automatica, in funzione del carico di lavoro ed alle esigenze di traffico. A tale scopo utilizziamo una serie di <i>scale condition rules</i> impostate ad hoc sulla piattaforma.</li>
 <li><i>Backup giornalieri</i>.</li>
 </ul>
+
+Abbiamo aggiunto come API app le seguenti funzioni:
+<ul type="square">
+<li><b><i>getProductsList()</i></b>: utilizza una funzione random per ritornare una parte della lista dei prodotti</li>
+<li><b><i>getProductInfo()</i></b>: mostra le informazioni di un singolo prodotto</li>
+<li><b><i>productAvailability()</i></b>: controlla la disponibilità di un prodotto</li>
+<li><b><i>searchProduct()</i></b>: ricerca un prodotto in base a determinati parametri scelti nell'apposita pagina</li>
+</ul>
+
 
 La scelta delle tecnologie utilizzate ricade sul nostro <i>Know-How</i>, ovvero nell’integrare servizi come <i>mySql</i> e <i>PhpMyAdmin</i>, fondamentali per la creazione e gestione grafica del database.
 Le altre tecnologie utilizzate sono:
@@ -65,21 +77,25 @@ La nostra Web App è stata inoltre pensata per eseguire attività in background 
 <li><b><i>Availability and delivery notice of the product</i></b>: ha lo scopo di avvisare l’utente, tramite e-mail, l’arrivo del prodotto desiderato (quindi disponibile per noleggio/acquisto) e quindi la sua relativa consegna, una volta terminato il periodo di noleggio.</li>
 </ul>
 
+La web app è totalmente integrata con il social network Facebook&trade; ed è stata progettata utilizzando il framework CodeIgniter&trade; 
+In Futuro verranno implementate anche i servizi di gestione del traffico per regione, dopo l’apertura della nuova filiale.
+
+
+
 </p>
 
 ## Presentazione interattiva del funzionamento della web app
-
+### Schermata Home
 <p align="justified">
 <img src="Home.png" alt="Home";>
 </p>
 
-<p align="justified">
-<img src="Info_Prodotto.png" alt="Info Prodotto";>
-</p>
 
 <p align="justified">
 L’utente nella home page può vedere alcuni dei prodotti disponibili, richiedere informazioni aggiuntive sul prodotto e vedere se il prodotto è disponibile o meno.
 </p>
+
+
 
 <p align="justified">
 <img src="Nuovi_Arrivi.png" alt="Nuovi Arrivi";>
