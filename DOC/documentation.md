@@ -92,7 +92,7 @@ In Futuro verranno implementate anche i servizi di gestione del traffico per reg
 
 
 <p align="justified">
-Nella homepage, l'utente ha la possibilità di vedere alcuni dei prodotti disponibili, richiedere informazioni aggiuntive sul prodotto e vedere se il prodotto è disponibile o meno.
+Nella homepage, l'utente ha la possibilità di visionare tutti i vari prodotti, consulatare informazioni dettagliate riguardo il prodotto selezionato, e verificare se tale prodotto è disponibile o meno nella data selezionata.
 </p>
 
 
