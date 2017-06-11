@@ -53,7 +53,7 @@ Abbiamo aggiunto come API app le seguenti funzioni:
 <li><b><i>getProductsList()</i></b>: utilizza una funzione random per ritornare una parte della lista dei prodotti</li>
 <li><b><i>getProductInfo()</i></b>: mostra le informazioni di un singolo prodotto</li>
 <li><b><i>productAvailability()</i></b>: controlla la disponibilità di un prodotto</li>
-<li><b><i>searchProduct()</i></b>: ricerca un prodotto in base a determinati parametri scelti nell'apposita pagina</li>
+<li><b><i>searchProduct()</i></b>: ricerca un prodotto in base a determinati parametri: categoria, prezzo, nome e tanto altro</li>
 </ul>
 
 
