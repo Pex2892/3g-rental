@@ -106,7 +106,9 @@ Nella homepage, l'utente ha la possibilità di visionare tutti i vari prodotti, 
 Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funzioni Facebook&trade; di commento, like e condivisione. Inoltre nella sezione Home l'utente può fare il log-in o la registrazione.
 </p>
 
-
+<p align="justified">
+<img src="Login-Registrazione.png" alt="Login Registrazione";>
+</p>
 
 ### Sezione <i>Nuovi arrivi</i>
 
@@ -114,13 +116,11 @@ Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funz
 <img src="Nuovi_Arrivi.png" alt="Nuovi Arrivi";>
 </p>
 
+
 <p align="justified">
 La pagina dei Nuovi Arrivi è in costante aggiornamento in quanto mostra gli ultimi prodotti inseriti con cadenza setimanale.
 </p>
 
-<p align="justified">
-<img src="Login-Registrazione.png" alt="Login Registrazione";>
-</p>
 
 ### Sezione <i>Prodotto</i>
 
