@@ -105,11 +105,6 @@ Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funz
 </p>
 
 <p align="justified">
-Nella homepage, l'utente ha la possibilità di visionare tutti i vari prodotti, consulatare informazioni dettagliate riguardo il prodotto selezionato, e verificare se tale prodotto è disponibile o meno nella data selezionata.
-Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funzioni Facebook&trade; di commento, like e condivisione.
-</p>
-
-<p align="justified">
 La pagina dei Nuovi Arrivi è in costante aggiornamento in quanto mostra gli ultimi prodotti inseriti con cadenza setimanale.
 </p>
 
