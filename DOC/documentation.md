@@ -112,11 +112,20 @@ Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funz
 
 <p align="justified">
 La pagina dei Nuovi Arrivi è in costante aggiornamento in quanto mostra gli ultimi prodotti inseriti con cadenza setimanale.
-
 </p>
 
 <p align="justified">
 <img src="Login-Registrazione.png" alt="Login Registrazione";>
+</p>
+
+### Sezione <i>Prodotto</i>
+
+<p align="justified">
+<img src="Prodotto.png" alt="Prodotto" width=918px height=1104px;;>
+</p>
+
+<p align="justified">
+All'interno della sezione Prodotto l'utente potrà impostare il periodo di noleggio desideratocon la possibilità di controllare la disponibilità ed in caso affermativo procedere alla prenotazione.
 </p>
 
 
