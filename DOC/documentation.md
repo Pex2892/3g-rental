@@ -97,6 +97,7 @@ L’utente nella home page può vedere alcuni dei prodotti disponibili, richiede
 </p>
 
 
+
 ### Sezione <i>Nuovi arrivi</i>
 
 <p align="justified">
