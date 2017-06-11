@@ -71,6 +71,7 @@ La nostra Web App è stata inoltre pensata per eseguire attività in background 
 
 <p align="justified">
 <img src="Home.png" alt="Home";>
+<img src="Nuovi_Arrivi.png" alt="Nuovi arrivi";>
 </p>
 
 
