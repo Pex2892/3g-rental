@@ -48,6 +48,16 @@ Il piano, progettato appositamente per web app, ci mette a disposizione tra gli 
 <li><i>Backup giornalieri</i>.</li>
 </ul>
 
+
+<p align="justified">
+Il piano scelto per lo storage del database è il seguente: <i>Titan</i>
+</p>
+
+<p align="center">
+<img src="Piano_Database.JPG" alt="Plan" width=200px height=356px;>
+</p>
+
+
 Abbiamo aggiunto come API app le seguenti funzioni:
 <ul type="square">
 <li><b><i>getProductsList()</i></b>: utilizza una funzione random per ritornare una parte della lista dei prodotti</li>
