@@ -68,3 +68,6 @@ La nostra Web App è stata inoltre pensata per eseguire attività in background 
 </p>
 
 ## Presentazione interattiva del funzionamento della web app
+
+<img src="Home.png" alt="Architecture";>
+
