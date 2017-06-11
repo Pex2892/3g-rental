@@ -85,17 +85,19 @@ In Futuro verranno implementate anche i servizi di gestione del traffico per reg
 </p>
 
 ## Presentazione interattiva del funzionamento della web app
-### Schermata Home
+
+### Sezione <i>Home</i>
+
 <p align="justified">
 <img src="Home.png" alt="Home";>
 </p>
 
-
 <p align="justified">
-Nella homepage, l'utente ha la possibilità di visionare tutti i vari prodotti, consulatare informazioni dettagliate riguardo il prodotto selezionato, e verificare se tale prodotto è disponibile o meno nella data selezionata.
+L’utente nella home page può vedere alcuni dei prodotti disponibili, richiedere informazioni aggiuntive sul prodotto e vedere se il prodotto è disponibile o meno.
 </p>
 
 
+### Sezione <i>Nuovi arrivi</i>
 
 <p align="justified">
 <img src="Nuovi_Arrivi.png" alt="Nuovi Arrivi";>
