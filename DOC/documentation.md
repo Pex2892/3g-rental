@@ -93,7 +93,8 @@ In Futuro verranno implementate anche i servizi di gestione del traffico per reg
 </p>
 
 <p align="justified">
-L’utente nella home page può vedere alcuni dei prodotti disponibili, richiedere informazioni aggiuntive sul prodotto e vedere se il prodotto è disponibile o meno.
+Nella homepage, l'utente ha la possibilità di visionare tutti i vari prodotti, consulatare informazioni dettagliate riguardo il prodotto selezionato, e verificare se tale prodotto è disponibile o meno nella data selezionata.
+Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funzioni Facebook&trade; di commento, like e condivisione. inoltre nella sezione Home l'utente può fare il log-in o la regostrazione con l'apposito button.
 </p>
 
 
@@ -102,6 +103,20 @@ L’utente nella home page può vedere alcuni dei prodotti disponibili, richiede
 
 <p align="justified">
 <img src="Nuovi_Arrivi.png" alt="Nuovi Arrivi";>
+</p>
+
+<p align="justified">
+Nella homepage, l'utente ha la possibilità di visionare tutti i vari prodotti, consulatare informazioni dettagliate riguardo il prodotto selezionato, e verificare se tale prodotto è disponibile o meno nella data selezionata.
+Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funzioni Facebook&trade; di commento, like e condivisione.
+</p>
+
+<p align="justified">
+La pagina dei Nuovi Arrivi è in costante aggiornamento in quanto mostra gli ultimi prodotti inseriti con cadenza setimanale.
+
+</p>
+
+<p align="justified">
+<img src="Login-Registrazione.png" alt="Login Registrazione";>
 </p>
 
 
