@@ -79,8 +79,7 @@ La nostra Web App è stata inoltre pensata per eseguire attività in background 
 
 La web app è totalmente integrata con il social network Facebook&trade; ed è stata progettata utilizzando il framework CodeIgniter&trade; 
 In Futuro verranno implementate anche i servizi di gestione del traffico per regione, dopo l’apertura della nuova filiale.
-
-
+Inoltre conteremo di integrare un sistema di pagamento e un sistema di consegna, all'interno della web app, in modo tale da renedere più immediata la transazione e la consegna. 
 
 </p>
 
@@ -125,7 +124,7 @@ La pagina dei Nuovi Arrivi è in costante aggiornamento in quanto mostra gli ult
 </p>
 
 <p align="justified">
-All'interno della sezione Prodotto l'utente potrà impostare il periodo di noleggio desideratocon la possibilità di controllare la disponibilità ed in caso affermativo procedere alla prenotazione.
+All'interno della sezione Prodotto l'utente potrà impostare il periodo di noleggio desideratocon la possibilità di controllare la disponibilità ed in caso affermativo procedere alla prenotazione. Inoltre all'interno di questa sezione, verranno mostrati tutti i dettagli del prodotto in questione.
 </p>
 
 
