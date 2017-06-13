@@ -138,7 +138,31 @@ Clccando sul bottone "noleggia/acquista" si procede alla rispettiva fase, che si
 </p>
 
 <p align="center">
-<img src="4Step.png" alt="4Step" width=780px height=111px;;>
+<img src="4StepTotali.png" alt="4Step" width=780px height=111px;;>
+</p>
+
+<p align justified>
+<ul type="square">
+<li><b><i>Il primo step</b></i> riguarda il controllo della disponibilità del prodotto</li>
+<li><b><i>Il secondo step</b></i> riguarda il riepilogo dell'ordine con le informazioni sul prodotto e il lasso di tempo di noleggio
+<p align="center">
+<img src="2Step.png" alt="2Step" width=780px height=745px;>
+</p></li>
+<li><b><i>Il terzo Step</b></i> riguarda riguarda il pagamento da parte dell'utente
+<p align="center">
+
+<img src="3Step.png" alt="3Step" width=780px height=364px;>
+
+</p>
+ </li>
+<li><b><i>Il quarto step</b></i> riguarda la conferma e il completamento del noleggio/acquisto
+<p align="center">
+
+<img src="4Step.png" alt="3Step" width=780px height=306px;;>
+
+</p>
+</li>
+</ul>
 </p>
 
 
