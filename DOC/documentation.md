@@ -134,7 +134,7 @@ All'interno della <i>sezione Prodotto</i> l'utente potrà impostare il periodo d
 
 ### Fase di <i>Noleggio/Acquisto</i>
 <p align="justified">
-Clccando sul bottone "noleggia/acquista" si procede alla rispettiva fase, che si suddivide in 4 step.
+Clccando sul bottone <i>noleggia/acquista</i> si procede alla rispettiva fase, che si suddivide in 4 step.
 </p>
 
 <p align="center">
