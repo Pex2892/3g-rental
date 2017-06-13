@@ -129,7 +129,17 @@ La pagina dei Nuovi Arrivi è in costante aggiornamento in quanto mostra gli ult
 </p>
 
 <p align="justified">
-All'interno della sezione Prodotto l'utente potrà impostare il periodo di noleggio desideratocon la possibilità di controllare la disponibilità ed in caso affermativo procedere alla prenotazione. Inoltre all'interno di questa sezione, verranno mostrati tutti i dettagli del prodotto in questione.
+All'interno della sezione Prodotto l'utente potrà impostare il periodo di noleggio desiderato con la possibilità di controllare la disponibilità ed in caso affermativo procedere alla prenotazione. Inoltre all'interno di questa sezione, verranno mostrati tutti i dettagli del prodotto in questione.
 </p>
+
+### Fase di Noleggio/Acquisto
+<p align="justified">
+Clccando sul bottone "noleggia/acquista" si procede alla rispettiva fase, che si suddivide in 4 step.
+</p>
+
+<p align="center">
+<img src="4Step.png" alt="4Step" width=780px height=111px;;>
+</p>
+
 
 
