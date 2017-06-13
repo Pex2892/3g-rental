@@ -118,7 +118,7 @@ Su ogni riquadro del prodotto appare sotta la possibilità di utilizzare le funz
 
 
 <p align="justified">
-La pagina dei Nuovi Arrivi è in costante aggiornamento in quanto mostra gli ultimi prodotti inseriti con cadenza setimanale.
+La pagina dei <i>Nuovi Arrivi</i> è in costante aggiornamento in quanto mostra gli ultimi prodotti inseriti con cadenza settimanale.
 </p>
 
 
@@ -129,7 +129,7 @@ La pagina dei Nuovi Arrivi è in costante aggiornamento in quanto mostra gli ult
 </p>
 
 <p align="justified">
-All'interno della sezione Prodotto l'utente potrà impostare il periodo di noleggio desiderato con la possibilità di controllare la disponibilità ed in caso affermativo procedere alla prenotazione. Inoltre all'interno di questa sezione, verranno mostrati tutti i dettagli del prodotto in questione.
+All'interno della <i>sezione Prodotto</i> l'utente potrà impostare il periodo di noleggio desiderato, con la possibilità di controllare la disponibilità ed in caso affermativo procedere alla prenotazione. Inoltre all'interno di questa sezione, verranno mostrati tutti i dettagli del prodotto in questione.
 </p>
 
 ### Fase di Noleggio/Acquisto
@@ -143,22 +143,22 @@ Clccando sul bottone "noleggia/acquista" si procede alla rispettiva fase, che si
 
 <p align justified>
 <ul type="square">
-<li><b><i>Il primo step</b></i> riguarda il controllo della disponibilità del prodotto</li>
-<li><b><i>Il secondo step</b></i> riguarda il riepilogo dell'ordine con le informazioni sul prodotto e il lasso di tempo di noleggio
+<li><b><i>Il primo step</b></i> riguarda il controllo della disponibilità del prodotto in corrispondenza della data inserita</li>
+<li><b><i>Il secondo step</b></i> mostra il riepilogo dell'ordine con le informazioni sul prodotto
 <p align="center">
 <img src="2Step.png" alt="2Step" width=780px height=745px;>
 </p></li>
-<li><b><i>Il terzo Step</b></i> riguarda riguarda il pagamento da parte dell'utente
+<li><b><i>Il terzo Step</b></i> offre all'utente la possibilità di pagamento
 <p align="center">
 
 <img src="3Step.png" alt="3Step" width=780px height=364px;>
 
 </p>
  </li>
-<li><b><i>Il quarto step</b></i> riguarda la conferma e il completamento del noleggio/acquisto
+<li><b><i>Il quarto step</b></i> dà la possibilità di conferma e di completamento del noleggio/acquisto
 <p align="center">
 
-<img src="4Step.png" alt="3Step" width=780px height=306px;;>
+<img src="4Step.png" alt="4Step" width=780px height=306px;;>
 
 </p>
 </li>
