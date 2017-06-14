@@ -62,7 +62,7 @@
                             <li>
                                 <div class="ct-media--left">
                                     <a href="blog-single.html">
-                                        <img src="<?php echo asset_upimg_product().$this->input->post('img'); ?>" alt="">
+                                        <img src="<?php echo asset_upimg_product().$this->input->post('img'); ?>" width="256" height="256" alt="">
                                     </a>
                                 </div>
                                 <div class="ct-media--content">
