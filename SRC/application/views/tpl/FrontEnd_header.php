@@ -21,6 +21,9 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo asset_css(); ?>bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo asset_css(); ?>style.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo asset_css(); ?>bootstrap-datepicker3.min.css">
+		
+		<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  		<link rel="stylesheet" href="https://jqueryui.com/resources/demos/style.css">
 
 
 		<!--[if lt IE 9]>

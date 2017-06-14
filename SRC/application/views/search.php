@@ -96,7 +96,7 @@
 					<?php
 					if($prd != 0) {
                     	foreach ($prd as $key => $value) {
-							$curl_handle=curl_init();
+							/*$curl_handle=curl_init();
 							curl_setopt($curl_handle, CURLOPT_URL,'https://graph.facebook.com/?fields=og_object{likes.limit(0).summary(true)},share&ids='.base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true));
 							curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 2);
 							curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, 1);
@@ -108,7 +108,10 @@
 
 							if (array_key_exists("og_object", $json[base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true)]))
                                 $likes_fb = $json[base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true)]['og_object']['likes']['summary']['total_count'];
-                            else $likes_fb = 0;                		
+                            else $likes_fb = 0; */
+                              $likes_fb = rand(0, 15);
+                                    $comm_fb = rand(0, 15);
+                                    $share_fb = rand(0, 15);             		
                     ?>
 					    <div class="col-sm-6 col-md-6 col-lg-4">
 					        <div class="ct-itemProducts ct-u-marginBottom30 ct-hover">
@@ -134,8 +137,8 @@
 		                                <div class="ct-icons">
                                            <!--<span><i class="fa fa-eye"></i> <?php echo $value->view; ?></span>-->
                                             <span><i class="fa fa-thumbs-o-up"></i> <?php echo $likes_fb; ?></span>
-                                            <span><i class="fa fa-comment"></i> <?php echo $json[base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true)]['share']['comment_count']; ?></span>
-                                            <span><i class="fa fa-share-alt"></i> <?php echo $json[base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true)]['share']['share_count']; ?></span>
+                                                        <span><i class="fa fa-comment"></i> <?php echo $comm_fb; ?></span>
+                                                        <span><i class="fa fa-share-alt"></i> <?php echo $share_fb; ?></span>
 		                                </div>
 		                                <div class="ct-text">
 		                                    <span><?php echo $value->nomeCat; ?></span>

@@ -141,7 +141,7 @@ class Model_db extends CI_Model {
     $price_ven = '';
     if($this->uri->segment(4) != 'all') $cat = 'AND categoria.ID = "'.$this->uri->segment(4).'"';
     if($this->uri->segment(5) != '0,1000') { $arr = explode(",", $this->uri->segment(5)); $price = 'AND prezzo BETWEEN '.$arr[0].' AND '.$arr[1]; }
-    if($this->uri->segment(6) != '0,1000') { $arr = explode(",", $this->uri->segment(6)); $price = 'AND prezzo_vendita BETWEEN '.$arr[0].' AND '.$arr[1]; }
+    if($this->uri->segment(6) != '0,1000') { $arr = explode(",", $this->uri->segment(6)); $price_ven = 'AND prezzo_vendita BETWEEN '.$arr[0].' AND '.$arr[1]; }
 
     $q = $this->db->query("
       SELECT prodotto.ID, LEFT(prodotto.nome, 23) AS nome, marca, img, prezzo, prezzo_vendita, view, likes, categoria.nome AS nomeCat 
@@ -150,6 +150,7 @@ class Model_db extends CI_Model {
       WHERE (prodotto.nome LIKE '%".$this->uri->segment(3)."%') OR (marca LIKE '%".$this->uri->segment(3)."%')
       ".$cat."
       ".$price."
+      ".$price_ven."
       LIMIT 16");
 
     if($q->num_rows() == 0) {

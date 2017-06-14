@@ -105,6 +105,8 @@
 
 	<script src="<?php echo asset_js(); ?>jquery.min.js"></script>
 
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
 	<script src="<?php echo asset_js(); ?>bootstrap.min.js"></script>
 
 	<script src="<?php echo asset_js(); ?>bootstrap-datepicker.min.js"></script>
@@ -123,6 +125,8 @@
 
 	<script type="text/javascript">
 	$(document).ready(function() {
+		$("#dateStart, #dateEnd").datepicker({ minDate: 0, dateFormat: 'yy-mm-dd'});
+
 		$("#add").click(function() {
 	        var intId = $("#buildyourform div").length + 1;
 	        var fieldWrapper = $("<div class=\"fieldwrapper\" id=\"field" + intId + "\"/>");

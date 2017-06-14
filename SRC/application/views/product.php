@@ -82,9 +82,21 @@
                                 <h3 class="text-uppercase">Controlla la disponibilità</h3>
                             </div>
                                 <form action="<?php echo base_url(); ?>trans_1" method="POST">
-                                    Data Inizio: <input name="dateStart" id="dateStart" type="text" value="<?php echo date("Y-m-d"); ?>"><br />
-                                    Data Fine: <input name="dateEnd" id="dateEnd" type="text" value="<?php echo date("Y-m-d", strtotime(date("Y-m-d"). ' + 1 days')); ?>"><br /><br />
-                                    <button id="checkPrd" class="btn btn-warning text-capitalize">Controlla!</button>&nbsp;
+
+                                	<table>
+                                		<tr>
+                                			<td>Data Inizio</td>
+                                			<td>&nbsp;</td>
+                                			<td>Data Fine</td>
+                                		</tr>
+                                		<tr>
+                                			<td><input name="dateStart" id="dateStart" type="text" value="<?php echo date("Y-m-d"); ?>"></td>
+                                			<td>&nbsp;</td>
+                                			<td><input name="dateEnd" id="dateEnd" type="text" value="<?php echo date("Y-m-d", strtotime(date("Y-m-d"). ' + 1 days')); ?>"></td>
+                                		</tr>
+                                	</table><br />
+
+                                    <a nohref id="checkPrd" class="btn btn-warning text-capitalize">Controlla!</a>&nbsp;
                                     <input type="hidden" name="id" value="<?php echo $prd[0]->ID; ?>" />
                                     <input type="hidden" name="nome" value="<?php echo $prd[0]->nome; ?>" />
                                     <input type="hidden" name="img" value="<?php echo $prd[0]->img; ?>" />
@@ -178,7 +190,7 @@
             
         <?php
         foreach ($prd_corr as $key => $value) {
-            $curl_handle=curl_init();
+            /*$curl_handle=curl_init();
             curl_setopt($curl_handle, CURLOPT_URL,'https://graph.facebook.com/?fields=og_object{likes.limit(0).summary(true)},share&ids='.base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true));
             curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 2);
             curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, 1);
@@ -190,7 +202,11 @@
 
             if (array_key_exists("og_object", $json[base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true)]))
                 $likes_fb = $json[base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true)]['og_object']['likes']['summary']['total_count'];
-            else $likes_fb = 0;
+            else $likes_fb = 0;*/
+
+            $likes_fb = rand(0, 15);
+                                    $comm_fb = rand(0, 15);
+                                    $share_fb = rand(0, 15);    
         ?>
             <div class="item">
                 <div class="ct-itemProducts ct-u-marginBottom30 ct-hover">
@@ -216,8 +232,8 @@
                             <div class="ct-icons">
                                 <!--<span><i class="fa fa-eye"></i> <?php echo $value->view; ?></span>-->
                                 <span><i class="fa fa-thumbs-o-up"></i> <?php echo $likes_fb; ?></span>
-                                <span><i class="fa fa-comment"></i> <?php echo $json[base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true)]['share']['comment_count']; ?></span>
-                                <span><i class="fa fa-share-alt"></i> <?php echo $json[base_url().'product/'.$value->ID.'/'.url_title($value->nome, 'dash', true)]['share']['share_count']; ?></span>
+                                                        <span><i class="fa fa-comment"></i> <?php echo $comm_fb; ?></span>
+                                                        <span><i class="fa fa-share-alt"></i> <?php echo $share_fb; ?></span>
                             </div>
                             <div class="ct-text">
                                 <span><?php echo $value->nomeCat; ?></span>
